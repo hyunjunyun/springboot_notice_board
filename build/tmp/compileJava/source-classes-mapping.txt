@@ -1,6 +1,6 @@
-com/yhj/board/web/dto/HelloResponseDto.java
- com.yhj.board.web.dto.HelloResponseDto
 com/yhj/board/Application.java
  com.yhj.board.Application
+com/yhj/board/web/dto/HelloResponseDto.java
+ com.yhj.board.web.dto.HelloResponseDto
 com/yhj/board/web/HelloController.java
  com.yhj.board.web.HelloController
