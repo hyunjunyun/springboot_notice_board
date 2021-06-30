@@ -1,6 +1,13 @@
 com/yhj/board/Application.java
  com.yhj.board.Application
+com/yhj/board/web/dto/IndexResponseDto.java
+ com.yhj.board.web.dto.IndexResponseDto
 com/yhj/board/web/dto/HelloResponseDto.java
  com.yhj.board.web.dto.HelloResponseDto
+com/yhj/board/web/IndexController.java
+ com.yhj.board.web.IndexController
+com/yhj/board/domain/posts/Posts.java
+ com.yhj.board.domain.posts.Posts
+ com.yhj.board.domain.posts.Posts$PostsBuilder
 com/yhj/board/web/HelloController.java
  com.yhj.board.web.HelloController

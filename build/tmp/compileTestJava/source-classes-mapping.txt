@@ -1,4 +1,0 @@
-com/yhj/board/web/HelloControllerTest.java
- com.yhj.board.web.HelloControllerTest
-com/yhj/board/web/dto/HelloResponseDtoTest.java
- com.yhj.board.web.dto.HelloResponseDtoTest

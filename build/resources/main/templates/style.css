@@ -1,0 +1,41 @@
+header, h1 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav {
+    height: 3em;
+    margin-bottom: 1em;
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.on {
+    color: white;
+    width: 10em;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+.chart {
+    width: 50em;
+    height: 25em;
+    border: solid 1px black;
+}
+
+.list {
+    width: 50em;
+    height: 800px;
+    border: solid 1px black;
+
+}
