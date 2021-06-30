@@ -1,3 +1,4 @@
+/*
 package com.yhj.board.web.dto;
 
 import org.junit.Test;
@@ -21,3 +22,4 @@ public class HelloResponseDtoTest {
 
 
 }
+*/
